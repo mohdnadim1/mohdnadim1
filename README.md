@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohdnadim017@gmail.com**
 
-- ⚡ Fun fact **I love creating things that are either completely pointless or incredibly impactful—there's no in-between! 😄 I also have a strange obsession with useless websites.**
+- ⚡ Fun fact **I love creating things that are either completely pointless or incredibly impactful there's no in-between! 😄 I also have a strange obsession with useless websites.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
