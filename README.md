@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdnadim1&label=Profile%20views&color=0e75b6&style=flat" alt="mohdnadim1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdnadim1" alt="mohdnadim1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark" alt="mohdnadim1" /></a> </p>
 
 - 💬 Ask me about cryptocurrency, web development , app security, or building startups. I’m always happy to share knowledge and discuss these topics! **HTML, CSS, JavaScript others**
 
