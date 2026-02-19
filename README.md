@@ -1,51 +1,66 @@
-<h1 align="center">Hi 👋 I'm Nadim</h1>
-<h3 align="center">Startup Founder | Tech Builder | Turning Ideas into Scalable Products</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile;Nadim+-+Startup+Founder;Building+Scalable+Tech+Startups" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?mohdnadim1=mohdnadim1&label=Profile%20views&color=0f172a&style=flat" alt="mohdnadim1" />
+  Founder, building and launching scalable digital products.
 </p>
 
----
-
-### 👨‍💻 About Me  
-
-- 🚀 Founder building and launching new tech startups  
-- 💡 Focused on product innovation, scalability, and long-term growth  
-- 🛠 Strong background in web technologies and product development  
-- 📈 Interested in SaaS, digital platforms, automation, and emerging tech  
-- 🤝 Open to collaborations, partnerships, and ambitious ideas  
-- 📫 Contact: **mohdnadim017@proton.me**
-
----
-
-### 🏗 What I Do  
-
-I turn concepts into real products — from idea validation and MVP development to scaling and optimization.  
-I enjoy solving real-world problems through technology and building systems that grow.
-
----
-
-### 🛠 Tech Stack  
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" />
+  <a href="https://github.com/mohdnadim1">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=mohdnadim1&show_icons=true&hide_border=true&theme=default" />
+  </a>
 </p>
 
----
 
-### 🎯 Vision  
+## 🚀 About Me
 
-Building impactful startups that solve meaningful problems and create long-term value.
+My name is **Nadim**.  
+I build technology startups from idea to execution.
+
+Focused on:
+- SaaS platforms  
+- Automation systems  
+- AI-powered tools  
+- Scalable digital infrastructure  
+
+Execution over hype. Systems over shortcuts.
+
+
+## 🌍 Explore
+
+<p align="center">
+  <a href="https://github.com/mohdnadim1">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nadimhosen/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohdnadim017@proton.me">
+    <img src="https://img.shields.io/badge/Email%20Me-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
+</p>
+
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnadim1&hide_border=true" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohdnadim1&label=Visitors&color=000000&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting. Let’s build something impactful.</strong>
+</p>
