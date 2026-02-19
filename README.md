@@ -2,7 +2,7 @@
 <h3 align="center">Startup Founder | Tech Builder | Turning Ideas into Scalable Products</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0f172a&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?mohdnadim1=mohdnadim1&label=Profile%20views&color=0f172a&style=flat" alt="mohdnadim1" />
 </p>
 
 ---
